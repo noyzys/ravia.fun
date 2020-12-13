@@ -1,0 +1,4 @@
+name: ravia-hub
+main: fun.ravia.hub.HubPlugin
+author: hujson.noyzys
+version: 1.0-SNAPSHOT

@@ -1,0 +1,9 @@
+rootProject.name = 'ravia.fun'
+include(
+        "ravia-database",
+        "ravia-common",
+        "ravia-scoreboard",
+        "ravia-hub",
+        "ravia-test-plugin"
+)
+

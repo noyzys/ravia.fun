@@ -1,0 +1,10 @@
+dependencies {
+    compileOnly project(":ravia-common")
+    compileOnly 'org.spigotmc:spigot:1.8.8-R0.1-SNAPSHOT'
+    compileOnly 'org.bukkit:craftbukkit:1.8.8-R0.1-SNAPSHOT'
+    compileOnly 'org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT'
+
+    compile 'io.vavr:vavr:0.9.3'
+    compile 'co.aikar:acf-paper:0.5.0-SNAPSHOT'
+    implementation 'com.google.code.gson:gson:2.8.6'
+}

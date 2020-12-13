@@ -1,0 +1,4 @@
+name: ravia-common
+main: fun.ravia.common.CommonPlugin
+author: hujson.noyzys
+version: 1.0-SNAPSHOT
